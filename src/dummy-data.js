@@ -54,6 +54,26 @@ const dummyData = [
             },
         ],
     },
+    {
+        id: 3,
+        username: "biancasaurus",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'https://cdn.pixabay.com/photo/2017/06/27/00/19/horse-2445740_1280.jpg',
+        likes: 3240,
+        timestamp: "July 1th 2020, 11:42:40 pm",
+        comments: [
+            {
+                id: 12,
+                username: "philzcoffee",
+                text: "We've got more of this!",
+            },
+            {
+                id: 13,
+                username: "biancasaurus",
+                text: "Looks nice!",
+            },
+        ],
+    },
 ];
 
 export default dummyData;
